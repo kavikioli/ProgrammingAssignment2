@@ -7,6 +7,7 @@
 ## 3 - to get its inverse, you may calculate a priori 
 ##     and assing it  with "setinverse" method or you may call cacheSolve
 
+## Hope that description helps!
 
 ## The following function builds the cached matrix and its
 ## associated methods of setting, getting the matrix and its inverse
